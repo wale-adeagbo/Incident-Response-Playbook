@@ -1,6 +1,6 @@
 # Incident response playbook
 
-Documented, **versioned** runbooks for common incidents: **outage**, **security breach**, and **data loss**. Decision flows use [Mermaid](https://mermaid.js.org/) diagrams (visible on GitHub and in many editors).
+This is a documented, **versioned** runbooks for common incidents: **outage**, **security breach**, and **data loss**. Decision flows use [Mermaid](https://mermaid.js.org/) diagrams (visible on GitHub and in many editors).
 
 ## Version
 
