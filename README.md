@@ -24,9 +24,6 @@ Current release: **`1.0.0`** (see [`VERSION`](VERSION) and [`CHANGELOG.md`](CHAN
 3. **Exercise** with tabletops; note gaps in `CHANGELOG.md` or an internal tracker.
 4. During an incident, **follow one scenario doc** and record decisions in your ticket (Jira, etc.).
 
-## Suggested GitHub repository name
-
-`Incident-Response-Playbook`
 
 ## License
 
